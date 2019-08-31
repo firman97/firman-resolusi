@@ -3,7 +3,8 @@ Rencana tujuan saya adalah
 - membuat webnya KMNU
   * dimulai dari WEBnya
   * dilanjut dengan aplikasi androidnya
-- melanjutkan ngaji kemana
+  * dan dilanjutkan hostingnya
 - pengen menjadi tenaga programmer NU Online
 - membangun sistem informasi untuk stis
+ * biar skripsinya lancar
 - lulus tepat waktu dari stsi
