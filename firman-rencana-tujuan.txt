@@ -4,6 +4,7 @@ Rencana tujuan saya adalah
   * dimulai dari WEBnya
   * dilanjut dengan aplikasi androidnya
     ^ android pienya
+    ^ android lollipopnya
 - pengen menjadi tenaga programmer NU Online
 - membangun sistem informasi untuk stis
   * untuk skripsinya
